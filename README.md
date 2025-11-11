@@ -1,2 +1,2 @@
 # Crisis-DX-source-files
-Source files for Crisis DX Soundbank - Libre-recreation of Crisis GeneralMIDI
+Source files for [Crisis DX Soundbank](https://musical-artifacts.com/artifacts/7386) - Libre-recreation of Crisis GeneralMIDI
